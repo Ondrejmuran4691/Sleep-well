@@ -1,6 +1,6 @@
 <h1>Sleep-well</h1>
 <img src="Capture.png" alt="obrazok apky" width="205" height="246">
-<img src="Capturesss.png" alt="obrazok apky" width="205" height="246">
+https://github.com/Ondrejmuran4691/Sleep-well/blob/Capture.png raw=true
 <h2>Nice to have</h2>
 - graf spánku<br>
 - keď spíš niaky čas získaš niečo
