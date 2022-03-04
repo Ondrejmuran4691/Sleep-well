@@ -1,4 +1,6 @@
 <h1>Sleep-well</h1>
+<img src="Capture.png" alt="obrazok apky" width="205" height="246">
+<img src="Capturesss.png" alt="obrazok apky" width="205" height="246">
 <h2>Nice to have</h2>
 - graf spánku<br>
 - keď spíš niaky čas získaš niečo
@@ -8,6 +10,7 @@
 <h2>Must have</h2>
 - úvodná obrazovka<br>
 - logo<br>
+
 - nastavenia<br>
 - budík<br>
 - vypočítanie času zobudenia<br>
